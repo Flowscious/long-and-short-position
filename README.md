@@ -1,4 +1,4 @@
-# Trading Indicators
+# Long & Short Position
 
 ![In-app screenshot](https://flowscious.com/assets/email-assets/ver-2/images/indicators/long-and-short-position/long-position-transparent-1.png "Wide screenshot of the web app.")
 
