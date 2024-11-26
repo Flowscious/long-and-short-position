@@ -4,7 +4,11 @@
 
     Developer's note:
     
-    Some of the indicators described in this document are available behind a pay-wall, and their source code is closed. When purchasing these indicators, you gain access to the plotted output, not the source code. If I ever choose to make this a public project, I will publish everything here in this repository. The indicators are written in PineScript, a language developed by TradingView. 
+    The indicators described in this document are closed-source and placed behind a pay-wall. If 
+    I release the source code some day, all resources should end up here.
+    
+    When purchasing these indicators, you gain access to the plotted output, not the source code. 
+    The indicators are written in PineScript, a language developed by TradingView. 
 
 > ⚠️ **Important**  
 > The **Flowscious** company does not take responsibility for your financial decisions. Please refer to our [Terms of Service](https://flowscious.com/terms-of-service) for more information.
